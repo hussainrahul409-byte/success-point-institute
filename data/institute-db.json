@@ -1,0 +1,1207 @@
+{
+  "adminClaimed": false,
+  "cmsSettings": {
+    "instituteName": "Success Point Educational Institute",
+    "tagline": "Academic Mentoring, Computer Education & Multi-District Skill Network",
+    "announcementText": "Admissions Open for 2026–27 Session across Dhubri HQ & 8 Active Assam District Centres · Scholarship Guidance Desk Open Fridays",
+    "headOfficeAddress": "GTB Road, Ward No. 12, Dhubri, Assam 783301, India",
+    "contactPhone": "+91-94350-78301",
+    "whatsappNumber": "919435078301",
+    "officialEmail": "admissions@successpointdhubri.edu.in",
+    "officeHours": "Monday – Saturday, 9:30 AM – 6:00 PM IST",
+    "directorName": "Dr. Rafiqul Islam",
+    "directorMessage": "Founded in Dhubri with a clear mission to bridge quality academic mentoring and practical digital skills across Western and Lower Assam, Success Point Educational Institute operates on transparency, personal attention, and verifiable student outcomes. Every learner—whether preparing for board exams, computer literacy, competitive recruitment, or seeking honest guidance on recognized distance pathways—deserves ethical counsel and structured support.",
+    "legalDisclaimer": "Success Point Educational Institute is an independent academic coaching, computer training, vocational skill institute, and educational consultancy headquartered in Dhubri, Assam. We do not independently confer university degrees or falsely claim UGC/AICTE university status. Academic counseling and facilitation for recognized board or university programs are conducted strictly within authorized institutional boundaries.",
+    "admissionsOpenBatch": "2026–27 Academic & Skill Session"
+  },
+  "courses": [
+    {
+      "id": "crs-sch-10",
+      "code": "SPEI-SCH-01",
+      "name": "Class 8–10 SEBA & CBSE Foundation Coaching",
+      "category": "School Education",
+      "description": "Concept-first academic support in Mathematics, Science, English, and Social Studies with weekly unit assessments and board exam readiness.",
+      "eligibility": "Students enrolled in Class 8, 9, or 10 (SEBA / CBSE)",
+      "duration": "10 Months (Academic Session)",
+      "fees": 7200,
+      "mode": "Offline",
+      "admissionRequirements": [
+        "School ID / Previous Marksheet",
+        "2 Passport Photos",
+        "Parent Consent Form"
+      ],
+      "syllabus": [
+        "Module 1: Number Systems, Algebra & Coordinate Geometry",
+        "Module 2: Physical & Life Sciences Practical Foundations",
+        "Module 3: English Grammar, Comprehension & Composition",
+        "Module 4: Assam History, Civics & Mock Board Series"
+      ],
+      "careerOpportunities": [
+        "Strong HSLC / Class 10 Board Performance",
+        "Olympiad & NTSE Foundation Readiness",
+        "Smooth Transition to Higher Secondary Streams"
+      ],
+      "authorizationNote": "Institutional supplementary academic coaching program.",
+      "featured": true
+    },
+    {
+      "id": "crs-hs-sci",
+      "code": "SPEI-HS-02",
+      "name": "Higher Secondary (Class 11–12) Science & Arts Mentoring",
+      "category": "Higher Secondary Education",
+      "description": "Structured AHSEC / CBSE Class 11 & 12 guided classroom instruction with laboratory problem workshops and regular test evaluation.",
+      "eligibility": "Passed HSLC / Class 10 from a recognized board",
+      "duration": "12 Months per Academic Year",
+      "fees": 11500,
+      "mode": "Hybrid",
+      "admissionRequirements": [
+        "HSLC / Class 10 Admit & Marksheet",
+        "2 Passport Photos",
+        "Aadhaar Copy"
+      ],
+      "syllabus": [
+        "Module 1: Core Physics, Chemistry & Mathematics / Arts Electives",
+        "Module 2: Chapter-wise Numerical & Analytical Practice",
+        "Module 3: AHSEC Previous 10-Year Question Bank Drills",
+        "Module 4: Pre-Final Full-Length Evaluation Tests"
+      ],
+      "careerOpportunities": [
+        "Higher Secondary Board Excellence",
+        "CEE / CUET / Polytechnic Entrance Readiness",
+        "Undergraduate Honors Admission Preparedness"
+      ],
+      "authorizationNote": "Supplementary academic coaching aligned to AHSEC & CBSE syllabi.",
+      "featured": true
+    },
+    {
+      "id": "crs-col-ug",
+      "code": "SPEI-COL-03",
+      "name": "Undergraduate (B.A. / B.Com / B.Sc.) Semester Guidance",
+      "category": "College Education",
+      "description": "NEP-aligned semester tutoring, project guidance, and internal assessment preparation for undergraduate college students across Assam.",
+      "eligibility": "Enrolled in B.A., B.Com., or B.Sc. at a recognized college",
+      "duration": "6 Months per Semester",
+      "fees": 6500,
+      "mode": "Hybrid",
+      "admissionRequirements": [
+        "10+2 Marksheet",
+        "College Admission Receipt",
+        "Passport Photo"
+      ],
+      "syllabus": [
+        "Module 1: Core Discipline Paper Conceptual Lectures",
+        "Module 2: Ability Enhancement & Skill Paper Support",
+        "Module 3: Academic Writing & Seminar Presentation Prep",
+        "Module 4: University Semester Model Paper Practice"
+      ],
+      "careerOpportunities": [
+        "Improved University Semester CGPA",
+        "Postgraduate Entrance Readiness",
+        "Strong Foundation for State Civil & Teaching Exams"
+      ],
+      "authorizationNote": "Private academic tutoring & mentoring support; degrees are awarded only by the student’s enrolled university.",
+      "featured": false
+    },
+    {
+      "id": "crs-uni-fac",
+      "code": "SPEI-UNI-04",
+      "name": "University Program Academic Facilitation & Counseling",
+      "category": "University-Level Programs",
+      "description": "Transparent admission counseling, syllabus navigation, assignment structuring, and exam readiness support for recognized university learners.",
+      "eligibility": "10+2 or Graduation as per respective recognized university norms",
+      "duration": "Program-Specific (1–3 Years)",
+      "fees": 4500,
+      "mode": "Hybrid",
+      "admissionRequirements": [
+        "Academic Transcripts (10th, 12th / Grad)",
+        "Valid Govt ID",
+        "2 Photos"
+      ],
+      "syllabus": [
+        "Module 1: Program & Elective Selection Counseling",
+        "Module 2: Study Schedule & Reference Material Mapping",
+        "Module 3: Assignment Formatting & Submission Guidance",
+        "Module 4: Term-End Exam Revision Workshops"
+      ],
+      "careerOpportunities": [
+        "Informed Higher Education Progression",
+        "Working Professional Degree Completion Support",
+        "Structured Career Pathway Planning"
+      ],
+      "authorizationNote": "Success Point provides academic facilitation and counseling only; we do not grant university degrees independently.",
+      "featured": false
+    },
+    {
+      "id": "crs-cmp-dca",
+      "code": "SPEI-CMP-05",
+      "name": "Diploma in Computer Applications (DCA) & Office Suite",
+      "category": "Computer Courses",
+      "description": "Hands-on practical training in Operating Systems, MS Office / LibreOffice, Internet & Digital Services, Database Basics, and Assamese/Hindi/English typing.",
+      "eligibility": "Class 10 Passed or Equivalent",
+      "duration": "6 Months",
+      "fees": 4800,
+      "mode": "Offline",
+      "admissionRequirements": [
+        "Class 10 Certificate",
+        "Aadhaar Card",
+        "2 Passport Photos"
+      ],
+      "syllabus": [
+        "Module 1: Computer Fundamentals & Windows/Linux Operations",
+        "Module 2: Word Processing, Advanced Excel Formulas & Presentations",
+        "Module 3: Relational Database Concepts & SQL Basics",
+        "Module 4: Cyber Hygiene, Digital Governance Portals & Typing Lab"
+      ],
+      "careerOpportunities": [
+        "Office Assistant & Data Entry Operator",
+        "CSC / e-Governance Centre Executive",
+        "Grade III & IV Computer Proficiency Qualifying"
+      ],
+      "authorizationNote": "Institutional vocational computer skill certificate issued upon practical evaluation.",
+      "featured": true
+    },
+    {
+      "id": "crs-cmp-pgdca",
+      "code": "SPEI-CMP-06",
+      "name": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "category": "Computer Courses",
+      "description": "Comprehensive 1-year applied computing curriculum covering Programming Logic, Web Design (HTML/CSS/JS), Tally Prime with GST, and SQL Database Systems.",
+      "eligibility": "Graduate in any stream (or final-year student)",
+      "duration": "12 Months",
+      "fees": 9600,
+      "mode": "Offline",
+      "admissionRequirements": [
+        "Graduation Marksheet / Provisional",
+        "Govt Photo ID",
+        "2 Photos"
+      ],
+      "syllabus": [
+        "Module 1: Structured Programming in C & Python Essentials",
+        "Module 2: Web Development (HTML5, Tailwind CSS, JavaScript)",
+        "Module 3: Tally Prime with GST & Inventory Accounting",
+        "Module 4: Capstone Software Project & Viva Voce"
+      ],
+      "careerOpportunities": [
+        "Junior Web & Software Support Associate",
+        "Accounts & MIS Executive",
+        "Computer Lab Instructor & IT Coordinator"
+      ],
+      "authorizationNote": "Skill training program with practical assessment and QR-verifiable institute completion certificate.",
+      "featured": true
+    },
+    {
+      "id": "crs-pro-acc",
+      "code": "SPEI-PRO-07",
+      "name": "Certified Accounting, Tally Prime & GST Practitioner",
+      "category": "Professional Courses",
+      "description": "Industry-focused financial accounting, GST billing, TDS compliance, payroll management, and MS Excel MIS reporting for commerce and office roles.",
+      "eligibility": "10+2 Passed (Commerce or Any Stream)",
+      "duration": "4 Months",
+      "fees": 5500,
+      "mode": "Hybrid",
+      "admissionRequirements": [
+        "10+2 Marksheet",
+        "ID Proof",
+        "Passport Photo"
+      ],
+      "syllabus": [
+        "Module 1: Principles of Accounting & Voucher Entry",
+        "Module 2: Tally Prime Inventory, Banking & Reconciliation",
+        "Module 3: GSTR-1, GSTR-3B Filing Simulation & TDS Basics",
+        "Module 4: Payroll & Automated Excel Financial Dashboards"
+      ],
+      "careerOpportunities": [
+        "Accounts Executive in MSMEs & Retail Firms",
+        "GST Billing & Compliance Operator",
+        "Back-Office Finance Coordinator"
+      ],
+      "authorizationNote": "Professional skill training program.",
+      "featured": false
+    },
+    {
+      "id": "crs-skl-eng",
+      "code": "SPEI-SKL-08",
+      "name": "Spoken English, Communication & Workplace Readiness",
+      "category": "Skill Development",
+      "description": "Interactive fluency building, pronunciation clinics, group discussions, resume writing, and mock interviews tailored for Assam youth.",
+      "eligibility": "Class 10 Passed & Above",
+      "duration": "3 Months",
+      "fees": 3200,
+      "mode": "Hybrid",
+      "admissionRequirements": [
+        "Academic ID / Govt ID",
+        "2 Passport Photos"
+      ],
+      "syllabus": [
+        "Module 1: Functional Grammar & Daily Conversational Fluency",
+        "Module 2: Public Speaking, Presentation & Listening Labs",
+        "Module 3: Resume Structuring, Email Etiquette & LinkedIn Profile",
+        "Module 4: HR & Technical Panel Mock Interviews"
+      ],
+      "careerOpportunities": [
+        "Customer Success & Front-Office Roles",
+        "Corporate & Hospitality Placement Readiness",
+        "Confident Interview Performance"
+      ],
+      "authorizationNote": "Institutional skill development certification.",
+      "featured": false
+    },
+    {
+      "id": "crs-voc-hw",
+      "code": "SPEI-VOC-09",
+      "name": "PC Hardware, Networking & CCTV Technician Training",
+      "category": "Vocational Training",
+      "description": "Practical workshop course on desktop/laptop assembly, OS troubleshooting, LAN/Wi-Fi configuration, and IP CCTV installation.",
+      "eligibility": "Class 10 Passed",
+      "duration": "4 Months",
+      "fees": 6200,
+      "mode": "Offline",
+      "admissionRequirements": [
+        "Class 10 Pass Certificate",
+        "Aadhaar Copy",
+        "2 Photos"
+      ],
+      "syllabus": [
+        "Module 1: Motherboard Diagnostics & Component Assembly",
+        "Module 2: Windows/Linux Deployment & Driver Troubleshooting",
+        "Module 3: Structured Cabling, Routers & IP Addressing",
+        "Module 4: DVR/NVR CCTV Setup & Field Maintenance"
+      ],
+      "careerOpportunities": [
+        "IT Support & Hardware Service Technician",
+        "Self-Employed Computer & CCTV Service Entrepreneur",
+        "School/Office Network Maintenance Staff"
+      ],
+      "authorizationNote": "Hands-on vocational training module.",
+      "featured": false
+    },
+    {
+      "id": "crs-cmp-adre",
+      "code": "SPEI-COMP-10",
+      "name": "Assam Direct Recruitment (ADRE), SSC & Banking Foundation",
+      "category": "Competitive Examination Preparation",
+      "description": "Targeted aptitude, reasoning, Assam GK, Indian Polity, and computer knowledge coaching with OMR and CBT mock test series.",
+      "eligibility": "10+2 / Graduate Aspirants",
+      "duration": "6 Months",
+      "fees": 6800,
+      "mode": "Hybrid",
+      "admissionRequirements": [
+        "10+2 / Degree Certificate",
+        "ID Proof",
+        "2 Photos"
+      ],
+      "syllabus": [
+        "Module 1: Quantitative Aptitude & Speed Mathematics",
+        "Module 2: Logical & Analytical Reasoning Drills",
+        "Module 3: Assam History, Geography, Economy & Current Affairs",
+        "Module 4: Weekly Full-Length OMR & Online CBT Tests"
+      ],
+      "careerOpportunities": [
+        "Assam Grade III & Grade IV Recruitment Readiness",
+        "SSC CHSL / CGL / MTS Preliminary Readiness",
+        "State & Regional Banking Clerical Exams"
+      ],
+      "authorizationNote": "Competitive exam preparation coaching; selection depends on official exam boards.",
+      "featured": true
+    },
+    {
+      "id": "crs-tch-01",
+      "code": "SPEI-TCH-11",
+      "name": "Early Childhood Pedagogy & Classroom Instruction Orientation",
+      "category": "Teacher Training",
+      "description": "Practical foundation for aspiring pre-primary and primary educators focusing on lesson planning, child psychology, and NEP 2020 activity-based learning.",
+      "eligibility": "10+2 Passed (Minimum 45%)",
+      "duration": "6 Months",
+      "fees": 7500,
+      "mode": "Offline",
+      "admissionRequirements": [
+        "10+2 Marksheet",
+        "Govt Photo ID",
+        "2 Photos"
+      ],
+      "syllabus": [
+        "Module 1: Child Development & Inclusive Classroom Practices",
+        "Module 2: NEP 2020 Foundational Literacy & Numeracy (FLN)",
+        "Module 3: Teaching-Learning Materials (TLM) Workshop",
+        "Module 4: Supervised Practice Teaching Sessions"
+      ],
+      "careerOpportunities": [
+        "Private Play-School & Primary School Educator",
+        "Academic Activity Coordinator",
+        "Foundation Tutor & Remedial Instructor"
+      ],
+      "authorizationNote": "Non-statutory institutional orientation program; does not replace NCTE B.Ed./D.El.Ed. degrees.",
+      "featured": false
+    },
+    {
+      "id": "crs-odl-01",
+      "code": "SPEI-ODL-12",
+      "name": "NIOS & Recognized Open Distance Learning (ODL) Guidance",
+      "category": "Distance Education Guidance",
+      "description": "Ethical counseling, subject combination advice, study schedule planning, and TMA/exam form guidance for students pursuing recognized open schooling or ODL programs.",
+      "eligibility": "Class 8 / 10 / 12 Learners seeking flexible education pathways",
+      "duration": "Session-Based Support",
+      "fees": 2800,
+      "mode": "Hybrid",
+      "admissionRequirements": [
+        "Previous School Transfer / Marksheet",
+        "Birth/Age Proof",
+        "Aadhaar"
+      ],
+      "syllabus": [
+        "Module 1: Official Eligibility & Stream Verification",
+        "Module 2: Subject Selection & Study Plan Calendar",
+        "Module 3: Tutor Marked Assignment (TMA) Workshops",
+        "Module 4: Practical & Theory Exam Preparation Clinics"
+      ],
+      "careerOpportunities": [
+        "Completion of Secondary / Senior Secondary Milestones",
+        "Re-entry into Formal Higher Education",
+        "Support for Working Youth & Homemakers"
+      ],
+      "authorizationNote": "Guidance & coaching support only; official registration and certification remain solely with the respective recognized board/university.",
+      "featured": false
+    }
+  ],
+  "centres": [
+    {
+      "id": "ctr-dhubri-hq",
+      "code": "SPEI-DHB-001",
+      "name": "Success Point Head Office & Main Campus, Dhubri",
+      "isHeadOffice": true,
+      "applicantName": "Dr. Rafiqul Islam",
+      "organizationName": "Success Point Educational Trust",
+      "mobile": "+91-94350-78301",
+      "email": "dhubri.hq@successpointdhubri.edu.in",
+      "address": "GTB Road, Ward No. 12, Near Raja Prabhat Chandra Barua Maidan, Dhubri, Assam 783301",
+      "district": "Dhubri",
+      "state": "Assam",
+      "proposedLocation": "Dhubri Town Main Campus",
+      "infrastructureDetails": "12 Smart Classrooms, 45-PC Computer Lab, Seminar Hall, Counseling Desk & Library",
+      "experience": "14 Years in Academic & Skill Education",
+      "lat": 26.0207,
+      "lng": 89.9743,
+      "status": "Active",
+      "commissionRate": 0,
+      "createdAt": "2016-04-10T09:00:00Z"
+    },
+    {
+      "id": "ctr-kokrajhar",
+      "code": "SPEI-KKJ-002",
+      "name": "Success Point Academic & IT Centre, Kokrajhar",
+      "applicantName": "Bidyut Narzary",
+      "organizationName": "Bodoland Skill Foundation",
+      "mobile": "+91-98541-22014",
+      "email": "kokrajhar@successpointdhubri.edu.in",
+      "address": "JD Road, Ward No. 4, Kokrajhar, Assam 783370",
+      "district": "Kokrajhar",
+      "state": "Assam",
+      "proposedLocation": "Kokrajhar Town",
+      "infrastructureDetails": "4 Classrooms, 20-PC Lab, Counseling Reception",
+      "experience": "7 Years in Computer Training",
+      "lat": 26.4014,
+      "lng": 90.2725,
+      "status": "Active",
+      "commissionRate": 20,
+      "createdAt": "2022-01-15T10:00:00Z"
+    },
+    {
+      "id": "ctr-bongaigaon",
+      "code": "SPEI-BNG-003",
+      "name": "Success Point Career & Computer Hub, Bongaigaon",
+      "applicantName": "Ananya Choudhury",
+      "organizationName": "Choudhury EduCare Services",
+      "mobile": "+91-97062-33108",
+      "email": "bongaigaon@successpointdhubri.edu.in",
+      "address": "Chapaguri Road, Near Paglasthan, Bongaigaon, Assam 783380",
+      "district": "Bongaigaon",
+      "state": "Assam",
+      "proposedLocation": "Bongaigaon Central",
+      "infrastructureDetails": "5 Classrooms, 25-PC Lab, Career Guidance Cell",
+      "experience": "9 Years in Academic Coaching",
+      "lat": 26.4824,
+      "lng": 90.5582,
+      "status": "Active",
+      "commissionRate": 20,
+      "createdAt": "2022-06-20T11:30:00Z"
+    },
+    {
+      "id": "ctr-goalpara",
+      "code": "SPEI-GLP-004",
+      "name": "Success Point Learning Centre, Goalpara",
+      "applicantName": "Tariqul Ahmed",
+      "organizationName": "Brahmaputra Skill Academy",
+      "mobile": "+91-99543-44819",
+      "email": "goalpara@successpointdhubri.edu.in",
+      "address": "Bapujinagar, BOC Gate, Goalpara, Assam 783101",
+      "district": "Goalpara",
+      "state": "Assam",
+      "proposedLocation": "Goalpara Town",
+      "infrastructureDetails": "4 Classrooms, 18-PC Lab",
+      "experience": "5 Years in Vocational Training",
+      "lat": 26.1641,
+      "lng": 90.6254,
+      "status": "Active",
+      "commissionRate": 20,
+      "createdAt": "2023-03-05T09:15:00Z"
+    },
+    {
+      "id": "ctr-barpeta",
+      "code": "SPEI-BPT-005",
+      "name": "Success Point Study & Tech Centre, Barpeta",
+      "applicantName": "Dipankar Das",
+      "organizationName": "Satra Valley Educational Society",
+      "mobile": "+91-94351-88902",
+      "email": "barpeta@successpointdhubri.edu.in",
+      "address": "College Road, Near MC College, Barpeta, Assam 781301",
+      "district": "Barpeta",
+      "state": "Assam",
+      "proposedLocation": "Barpeta Town",
+      "infrastructureDetails": "6 Classrooms, 22-PC Computer Lab",
+      "experience": "8 Years in Competitive & School Coaching",
+      "lat": 26.3229,
+      "lng": 91.0063,
+      "status": "Active",
+      "commissionRate": 20,
+      "createdAt": "2023-08-12T10:00:00Z"
+    },
+    {
+      "id": "ctr-guwahati",
+      "code": "SPEI-GHY-006",
+      "name": "Success Point Regional Guidance Centre, Guwahati",
+      "applicantName": "Priyanka Kalita",
+      "organizationName": "Northeast Academic Partners LLP",
+      "mobile": "+91-98640-51234",
+      "email": "guwahati@successpointdhubri.edu.in",
+      "address": "GS Road, Christian Basti, Guwahati, Kamrup Metro, Assam 781005",
+      "district": "Guwahati",
+      "state": "Assam",
+      "proposedLocation": "GS Road, Guwahati",
+      "infrastructureDetails": "8 Smart Rooms, 30-PC Lab, Regional Assessment Desk",
+      "experience": "11 Years in Higher Education Counseling",
+      "lat": 26.1445,
+      "lng": 91.7362,
+      "status": "Active",
+      "commissionRate": 22,
+      "createdAt": "2024-01-20T09:00:00Z"
+    },
+    {
+      "id": "ctr-nalbari",
+      "code": "SPEI-NLB-007",
+      "name": "Success Point Academic Centre, Nalbari",
+      "applicantName": "Hiren Sarma",
+      "organizationName": "Nalbari Pragati Kendra",
+      "mobile": "+91-98591-67210",
+      "email": "nalbari@successpointdhubri.edu.in",
+      "address": "Gopal Bazar, LN Road, Nalbari, Assam 781335",
+      "district": "Nalbari",
+      "state": "Assam",
+      "proposedLocation": "Nalbari Central",
+      "infrastructureDetails": "3 Classrooms, 15-PC Lab",
+      "experience": "6 Years in Computer & Tuition Centre",
+      "lat": 26.4447,
+      "lng": 91.4411,
+      "status": "Active",
+      "commissionRate": 18,
+      "createdAt": "2024-07-04T11:00:00Z"
+    },
+    {
+      "id": "ctr-ssm",
+      "code": "SPEI-SSM-008",
+      "name": "Success Point Extension Centre, South Salmara-Mankachar",
+      "applicantName": "Mizanur Rahman",
+      "organizationName": "Salmara Youth Skill Initiative",
+      "mobile": "+91-97071-19044",
+      "email": "southsalmara@successpointdhubri.edu.in",
+      "address": "Hatsingimari Main Road, South Salmara-Mankachar, Assam 783135",
+      "district": "South Salmara-Mankachar",
+      "state": "Assam",
+      "proposedLocation": "Hatsingimari",
+      "infrastructureDetails": "3 Classrooms, 16-PC Computer Lab, Solar Backup",
+      "experience": "4 Years in Community Skill Training",
+      "lat": 25.8623,
+      "lng": 89.9146,
+      "status": "Active",
+      "commissionRate": 20,
+      "createdAt": "2025-02-10T09:30:00Z"
+    },
+    {
+      "id": "ctr-kamrup-pending",
+      "code": "SPEI-KMP-009",
+      "name": "Rangia Skill & Guidance Centre (Proposed)",
+      "applicantName": "Jitendra Nath",
+      "organizationName": "Pragjyotish Learning Foundation",
+      "mobile": "+91-98642-77451",
+      "email": "rangia.partner@example.in",
+      "address": "Station Road, Rangia, Kamrup, Assam 781354",
+      "district": "Kamrup",
+      "state": "Assam",
+      "proposedLocation": "Rangia Town, Kamrup",
+      "infrastructureDetails": "1,600 sq ft Ground Floor, 3 Classrooms, 15 PCs ready",
+      "experience": "5 Years running coaching classes",
+      "lat": 26.4357,
+      "lng": 91.6184,
+      "status": "Pending",
+      "commissionRate": 20,
+      "createdAt": "2026-11-12T10:15:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-student-demo",
+      "name": "Aarav Prodhani (Sample Student)",
+      "email": "student.demo@successpointdhubri.edu.in",
+      "phone": "+91-98540-11223",
+      "role": "student",
+      "district": "Dhubri",
+      "centreId": "ctr-dhubri-hq",
+      "status": "Active",
+      "passwordHash": "3c901165b9e683e32492ff9e0a6bd5de:309feee9e6b1df5da6f0dbd723f0fa20f729a482b4e9d27d6a5fd11d95f8267cf81e04eec1abe09d5af04e7c5899adbb24f4f74b26c6d83f0af1fb5cda6fe248",
+      "createdAt": "2026-07-01T10:00:00Z"
+    },
+    {
+      "id": "usr-staff-demo",
+      "name": "Farhana Begum (Sample Office Staff)",
+      "email": "staff.demo@successpointdhubri.edu.in",
+      "phone": "+91-94352-22110",
+      "role": "staff",
+      "district": "Dhubri",
+      "centreId": "ctr-dhubri-hq",
+      "status": "Active",
+      "passwordHash": "3c901165b9e683e32492ff9e0a6bd5de:309feee9e6b1df5da6f0dbd723f0fa20f729a482b4e9d27d6a5fd11d95f8267cf81e04eec1abe09d5af04e7c5899adbb24f4f74b26c6d83f0af1fb5cda6fe248",
+      "createdAt": "2024-03-10T09:00:00Z"
+    },
+    {
+      "id": "usr-franchise-demo",
+      "name": "Bidyut Narzary (Sample Franchise Partner)",
+      "email": "franchise.demo@successpointdhubri.edu.in",
+      "phone": "+91-98541-22014",
+      "role": "franchise",
+      "district": "Kokrajhar",
+      "centreId": "ctr-kokrajhar",
+      "status": "Active",
+      "passwordHash": "3c901165b9e683e32492ff9e0a6bd5de:309feee9e6b1df5da6f0dbd723f0fa20f729a482b4e9d27d6a5fd11d95f8267cf81e04eec1abe09d5af04e7c5899adbb24f4f74b26c6d83f0af1fb5cda6fe248",
+      "createdAt": "2022-01-15T10:00:00Z"
+    },
+    {
+      "id": "usr-coord-demo",
+      "name": "Sanjay Barman (Sample District Coordinator)",
+      "email": "coordinator.demo@successpointdhubri.edu.in",
+      "phone": "+91-94350-55667",
+      "role": "district_coordinator",
+      "district": "Dhubri",
+      "centreId": "ctr-dhubri-hq",
+      "status": "Active",
+      "passwordHash": "3c901165b9e683e32492ff9e0a6bd5de:309feee9e6b1df5da6f0dbd723f0fa20f729a482b4e9d27d6a5fd11d95f8267cf81e04eec1abe09d5af04e7c5899adbb24f4f74b26c6d83f0af1fb5cda6fe248",
+      "createdAt": "2023-05-01T09:00:00Z"
+    },
+    {
+      "id": "usr-admin-root",
+      "name": "Dr. Rafiqul Islam (Head Office Admin)",
+      "email": "admin@successpointdhubri.edu.in",
+      "phone": "+91-94350-78301",
+      "role": "admin",
+      "district": "Dhubri",
+      "centreId": "ctr-dhubri-hq",
+      "status": "Active",
+      "twoFactorEnabled": true,
+      "passwordHash": "3c901165b9e683e32492ff9e0a6bd5de:309feee9e6b1df5da6f0dbd723f0fa20f729a482b4e9d27d6a5fd11d95f8267cf81e04eec1abe09d5af04e7c5899adbb24f4f74b26c6d83f0af1fb5cda6fe248",
+      "createdAt": "2016-04-10T09:00:00Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1",
+      "applicationId": "SPEI-2026-1042",
+      "fullName": "Aarav Prodhani",
+      "fatherName": "Nagen Prodhani",
+      "motherName": "Minati Prodhani",
+      "dob": "2005-04-18",
+      "gender": "Male",
+      "mobile": "9854011223",
+      "email": "student.demo@successpointdhubri.edu.in",
+      "address": "Boro Bazar, Ward No. 7, Dhubri",
+      "state": "Assam",
+      "district": "Dhubri",
+      "pinCode": "783301",
+      "qualification": "Graduate (B.A.)",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "centreId": "ctr-dhubri-hq",
+      "centreName": "Success Point Head Office & Main Campus, Dhubri",
+      "status": "Approved",
+      "remarks": "Documents verified at Dhubri HQ desk. Enrolled in Morning Batch A.",
+      "createdAt": "2026-07-01T10:15:00Z",
+      "updatedAt": "2026-07-03T14:20:00Z"
+    },
+    {
+      "id": "app-2",
+      "applicationId": "SPEI-2026-1089",
+      "fullName": "Roshni Khatun",
+      "fatherName": "Abdul Karim",
+      "motherName": "Salma Khatun",
+      "dob": "2007-09-12",
+      "gender": "Female",
+      "mobile": "9706543210",
+      "email": "roshni.k@example.in",
+      "address": "Station Road, Gauripur",
+      "state": "Assam",
+      "district": "Dhubri",
+      "pinCode": "783331",
+      "qualification": "Class 12 (AHSEC)",
+      "courseId": "crs-cmp-dca",
+      "courseName": "Diploma in Computer Applications (DCA) & Office Suite",
+      "centreId": "ctr-dhubri-hq",
+      "centreName": "Success Point Head Office & Main Campus, Dhubri",
+      "status": "Pending",
+      "remarks": "Awaiting original marksheet check at office desk.",
+      "createdAt": "2026-11-18T11:30:00Z",
+      "updatedAt": "2026-11-18T11:30:00Z"
+    },
+    {
+      "id": "app-3",
+      "applicationId": "SPEI-2026-1094",
+      "fullName": "Mwkhwm Basumatary",
+      "fatherName": "Suren Basumatary",
+      "motherName": "Bimala Basumatary",
+      "dob": "2004-11-02",
+      "gender": "Male",
+      "mobile": "9854177889",
+      "email": "mwkhwm.b@example.in",
+      "address": "Titaguri, Kokrajhar",
+      "state": "Assam",
+      "district": "Kokrajhar",
+      "pinCode": "783370",
+      "qualification": "Graduate (B.Com)",
+      "courseId": "crs-cmp-adre",
+      "courseName": "Assam Direct Recruitment (ADRE), SSC & Banking Foundation",
+      "centreId": "ctr-kokrajhar",
+      "centreName": "Success Point Academic & IT Centre, Kokrajhar",
+      "status": "Verified",
+      "remarks": "Documents verified by Kokrajhar centre coordinator; pending final fee payment.",
+      "createdAt": "2026-11-20T09:45:00Z",
+      "updatedAt": "2026-11-21T16:10:00Z"
+    }
+  ],
+  "students": [
+    {
+      "id": "stu-1",
+      "userId": "usr-student-demo",
+      "rollNumber": "DHB-2026-042",
+      "applicationId": "SPEI-2026-1042",
+      "fullName": "Aarav Prodhani",
+      "fatherName": "Nagen Prodhani",
+      "motherName": "Minati Prodhani",
+      "dob": "2005-04-18",
+      "mobile": "9854011223",
+      "email": "student.demo@successpointdhubri.edu.in",
+      "address": "Boro Bazar, Ward No. 7, Dhubri, Assam 783301",
+      "district": "Dhubri",
+      "centreId": "ctr-dhubri-hq",
+      "centreName": "Success Point Head Office & Main Campus, Dhubri",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "batch": "Morning Batch 2026–27",
+      "feeTotal": 9600,
+      "feePaid": 6400,
+      "admitCardNo": "ADM-2026-DHB-042",
+      "certificateNo": "SPEI-CERT-2026-1001",
+      "admissionStatus": "Active",
+      "enrolledAt": "2026-07-03T14:20:00Z"
+    },
+    {
+      "id": "stu-2",
+      "userId": "usr-student-kkj-1",
+      "rollNumber": "KKJ-2026-019",
+      "applicationId": "SPEI-2026-1019",
+      "fullName": "Mousumi Brahma",
+      "fatherName": "Kanak Brahma",
+      "motherName": "Renu Brahma",
+      "dob": "2006-02-24",
+      "mobile": "9854199001",
+      "email": "mousumi.b@example.in",
+      "address": "JD Road, Kokrajhar, Assam 783370",
+      "district": "Kokrajhar",
+      "centreId": "ctr-kokrajhar",
+      "centreName": "Success Point Academic & IT Centre, Kokrajhar",
+      "courseId": "crs-cmp-dca",
+      "courseName": "Diploma in Computer Applications (DCA) & Office Suite",
+      "batch": "Afternoon Batch 2026",
+      "feeTotal": 4800,
+      "feePaid": 4800,
+      "admitCardNo": "ADM-2026-KKJ-019",
+      "certificateNo": "SPEI-CERT-2026-1002",
+      "admissionStatus": "Active",
+      "enrolledAt": "2026-08-01T10:00:00Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att-1",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "rollNumber": "DHB-2026-042",
+      "courseId": "crs-cmp-pgdca",
+      "district": "Dhubri",
+      "date": "2026-11-18",
+      "status": "Present",
+      "markedBy": "Farhana Begum"
+    },
+    {
+      "id": "att-2",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "rollNumber": "DHB-2026-042",
+      "courseId": "crs-cmp-pgdca",
+      "district": "Dhubri",
+      "date": "2026-11-19",
+      "status": "Present",
+      "markedBy": "Farhana Begum"
+    },
+    {
+      "id": "att-3",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "rollNumber": "DHB-2026-042",
+      "courseId": "crs-cmp-pgdca",
+      "district": "Dhubri",
+      "date": "2026-11-20",
+      "status": "Late",
+      "markedBy": "Farhana Begum"
+    },
+    {
+      "id": "att-4",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "rollNumber": "DHB-2026-042",
+      "courseId": "crs-cmp-pgdca",
+      "district": "Dhubri",
+      "date": "2026-11-21",
+      "status": "Present",
+      "markedBy": "Farhana Begum"
+    },
+    {
+      "id": "att-5",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "rollNumber": "DHB-2026-042",
+      "courseId": "crs-cmp-pgdca",
+      "district": "Dhubri",
+      "date": "2026-11-22",
+      "status": "Present",
+      "markedBy": "Farhana Begum"
+    }
+  ],
+  "studyMaterials": [
+    {
+      "id": "mat-1",
+      "title": "Python & C Programming Lab Workbook (PGDCA Module 1)",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "type": "PDF",
+      "summary": "Structured lab exercises covering control flow, functions, file handling, and data structures.",
+      "contentBody": "SUCCESS POINT EDUCATIONAL INSTITUTE - STUDY MODULE\nCourse: PGDCA Track\nTopic: Programming Logic & Python Lab Exercises\n\n1. Variables, Data Types & Conditional Branching\n2. Loops, Lists, Dictionaries & Modular Functions\n3. Practice Exercises (1–15) for Dhubri & District Computer Labs.",
+      "uploadedBy": "Subhajit Roy (Senior IT Faculty)",
+      "createdAt": "2026-10-12T09:00:00Z"
+    },
+    {
+      "id": "mat-2",
+      "title": "Tally Prime with GST Practical Ledger Set",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "type": "Notes",
+      "summary": "30 real-world Assam MSME GST billing scenarios, voucher types, and GSTR-3B reconciliation steps.",
+      "contentBody": "SUCCESS POINT EDUCATIONAL INSTITUTE - ACCOUNTING LAB\nTopic: Tally Prime GST Configuration\n\n- Company Creation with Assam State Code (18)\n- CGST + SGST vs IGST Ledger Setup\n- Generating e-Invoice JSON & GSTR-1 Summary.",
+      "uploadedBy": "Farhana Begum",
+      "createdAt": "2026-11-02T11:30:00Z"
+    },
+    {
+      "id": "mat-3",
+      "title": "Assam History & Geography Quick Revision Compendium",
+      "courseId": "crs-cmp-adre",
+      "courseName": "Assam Direct Recruitment (ADRE), SSC & Banking Foundation",
+      "type": "PDF",
+      "summary": "District-by-district Assam socio-economic facts, river systems, and previous ADRE solved questions.",
+      "contentBody": "SUCCESS POINT COMPETITIVE CELL\nTopic: Assam General Knowledge\n\nKey Topics: Brahmaputra & Barak Valley Districts, Cultural Heritage, State Schemes & Mock MCQs.",
+      "uploadedBy": "Dr. Rafiqul Islam",
+      "createdAt": "2026-11-08T10:00:00Z"
+    }
+  ],
+  "onlineClasses": [
+    {
+      "id": "cls-1",
+      "title": "SQL Database Normalization & Query Workshop",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "instructor": "Subhajit Roy",
+      "scheduleDate": "2026-11-26",
+      "scheduleTime": "10:30 AM – 12:00 PM IST",
+      "meetingLink": "https://meet.jit.si/successpoint-dhubri-pgdca",
+      "platform": "Live Interactive Classroom",
+      "status": "Upcoming"
+    },
+    {
+      "id": "cls-2",
+      "title": "ADRE Quantitative Aptitude: Percentage & Profit-Loss",
+      "courseId": "crs-cmp-adre",
+      "courseName": "Assam Direct Recruitment (ADRE), SSC & Banking Foundation",
+      "instructor": "Manashjyoti Bora",
+      "scheduleDate": "2026-11-27",
+      "scheduleTime": "04:00 PM – 05:30 PM IST",
+      "meetingLink": "https://meet.jit.si/successpoint-assam-adre",
+      "platform": "Live Interactive Classroom",
+      "status": "Upcoming"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "asg-1",
+      "title": "Build a Responsive Institute Profile Page in HTML5 & CSS",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "submissionText": "Completed responsive 3-section layout with semantic header, table, and contact form.",
+      "grade": "A (92/100)",
+      "feedback": "Clean semantic markup and accessible contrast.",
+      "status": "Graded",
+      "dueDate": "2026-11-10",
+      "submittedAt": "2026-11-09T15:20:00Z"
+    },
+    {
+      "id": "asg-2",
+      "title": "Prepare GSTR-1 Monthly Invoice Sheet in Tally Prime",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "submissionText": "",
+      "status": "Pending",
+      "dueDate": "2026-11-30"
+    }
+  ],
+  "exams": [
+    {
+      "id": "exm-1",
+      "title": "PGDCA Mid-Term Online Assessment (Computing & Web Basics)",
+      "courseId": "crs-cmp-pgdca",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "examDate": "2026-11-25",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "status": "Open",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which HTML element is used to define the primary navigation links of a document?",
+          "options": [
+            "<section>",
+            "<nav>",
+            "<aside>",
+            "<header-links>"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "q2",
+          "question": "In Tally Prime, which function key opens the Payment Voucher?",
+          "options": [
+            "F4",
+            "F5",
+            "F6",
+            "F8"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": "q3",
+          "question": "What does SQL stand for in relational database management?",
+          "options": [
+            "Structured Question Language",
+            "Simple Query Logic",
+            "Structured Query Language",
+            "System Queue Language"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": "q4",
+          "question": "Which GST tax applies to intra-state supplies within Assam?",
+          "options": [
+            "IGST only",
+            "CGST + SGST",
+            "UTGST only",
+            "Customs Duty"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ],
+  "examResults": [
+    {
+      "id": "res-1",
+      "examId": "exm-prev-1",
+      "examTitle": "Module 1 Practical & Theory Evaluation",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "rollNumber": "DHB-2026-042",
+      "score": 88,
+      "totalMarks": 100,
+      "grade": "A",
+      "status": "Pass",
+      "publishedAt": "2026-10-25T12:00:00Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-1",
+      "receiptNo": "RCPT-SPEI-2026-701",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "applicationId": "SPEI-2026-1042",
+      "courseName": "Post Graduate Diploma in Computer Applications (PGDCA) Track",
+      "district": "Dhubri",
+      "centreId": "ctr-dhubri-hq",
+      "amount": 6400,
+      "method": "UPI",
+      "transactionRef": "UPI-631984512098",
+      "status": "Paid",
+      "paidAt": "2026-07-03T14:15:00Z"
+    },
+    {
+      "id": "pay-2",
+      "receiptNo": "RCPT-SPEI-2026-745",
+      "studentId": "stu-2",
+      "studentName": "Mousumi Brahma",
+      "applicationId": "SPEI-2026-1019",
+      "courseName": "Diploma in Computer Applications (DCA) & Office Suite",
+      "district": "Kokrajhar",
+      "centreId": "ctr-kokrajhar",
+      "amount": 4800,
+      "method": "Card",
+      "transactionRef": "RZP-9812345611",
+      "status": "Paid",
+      "paidAt": "2026-08-01T10:10:00Z"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-1",
+      "certificateNo": "SPEI-CERT-2026-1001",
+      "studentId": "stu-1",
+      "studentName": "Aarav Prodhani",
+      "fatherName": "Nagen Prodhani",
+      "courseName": "Diploma in Computer Applications (DCA) Foundation",
+      "district": "Dhubri",
+      "centreName": "Success Point Head Office & Main Campus, Dhubri",
+      "grade": "A+ (88%)",
+      "issueDate": "2026-10-28",
+      "status": "Issued"
+    },
+    {
+      "id": "cert-2",
+      "certificateNo": "SPEI-CERT-2026-1002",
+      "studentId": "stu-2",
+      "studentName": "Mousumi Brahma",
+      "fatherName": "Kanak Brahma",
+      "courseName": "Diploma in Computer Applications (DCA) & Office Suite",
+      "district": "Kokrajhar",
+      "centreName": "Success Point Academic & IT Centre, Kokrajhar",
+      "grade": "A (84%)",
+      "issueDate": "2026-11-05",
+      "status": "Issued"
+    }
+  ],
+  "certificateRequests": [
+    {
+      "id": "creq-1",
+      "centreId": "ctr-kokrajhar",
+      "centreName": "Success Point Academic & IT Centre, Kokrajhar",
+      "studentId": "stu-2",
+      "studentName": "Mousumi Brahma",
+      "courseName": "Diploma in Computer Applications (DCA) & Office Suite",
+      "status": "Approved",
+      "requestedAt": "2026-11-02T09:00:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "not-1",
+      "title": "Winter 2026–27 Admissions Open Across All 11 Program Categories",
+      "category": "Admission",
+      "district": "All Assam",
+      "summary": "Online applications are open for School Coaching, Higher Secondary, DCA/PGDCA, Tally GST, and ADRE Competitive batches at Dhubri HQ and district centres.",
+      "content": "Candidates may submit their online admission form via the Apply Now portal or visit the Dhubri Head Office (GTB Road, Ward No. 12) between 9:30 AM and 6:00 PM Monday to Saturday.",
+      "publishedAt": "2026-11-20",
+      "isPinned": true
+    },
+    {
+      "id": "not-2",
+      "title": "PGDCA & DCA Practical Examination Schedule — December 2026",
+      "category": "Examination",
+      "district": "Dhubri",
+      "summary": "Admit cards for enrolled computer batch learners are now available inside the Student Dashboard.",
+      "content": "Practical lab evaluations for Batch 2026–27 will commence from December 10, 2026. Students must download their Admit Card and bring their institute ID card.",
+      "publishedAt": "2026-11-18",
+      "isPinned": true
+    },
+    {
+      "id": "not-3",
+      "title": "Assam Pre-Matric & Post-Matric Minority / OBC Scholarship Guidance Desk",
+      "category": "Scholarship",
+      "district": "All Assam",
+      "summary": "Free document checklist and National Scholarship Portal (NSP) guidance sessions every Friday at Dhubri & Goalpara centres.",
+      "content": "Eligible school and college students can bring income, caste, and bonafide certificates for step-by-step scholarship application assistance.",
+      "publishedAt": "2026-11-14",
+      "isPinned": false
+    },
+    {
+      "id": "not-4",
+      "title": "Module 1 Assessment Results Published for Dhubri & Kokrajhar Batches",
+      "category": "Result",
+      "district": "Kokrajhar",
+      "summary": "Students can check their scorecards and faculty remarks inside the Student Portal Results tab.",
+      "content": "Congratulations to all learners who scored above 80% in the Module 1 evaluation. Re-evaluation requests may be submitted via Helpdesk within 7 days.",
+      "publishedAt": "2026-11-10",
+      "isPinned": false
+    },
+    {
+      "id": "not-5",
+      "title": "Assam Direct Recruitment (ADRE) & District Employment Exchange Update",
+      "category": "Job",
+      "district": "All Assam",
+      "summary": "New practice mock test series and computer skill test drills launched for upcoming Grade III & IV skill tests.",
+      "content": "Weekly OMR and practical computer typing mock tests are scheduled every Saturday at 10:00 AM across all active Success Point centres.",
+      "publishedAt": "2026-11-06",
+      "isPinned": false
+    },
+    {
+      "id": "not-6",
+      "title": "Annual Career Guidance Seminar at Dhubri Town Hall",
+      "category": "Event",
+      "district": "Dhubri",
+      "summary": "Open seminar for Class 10, 12, and college students on digital careers, competitive exams, and skill pathways.",
+      "content": "Join educators, IT mentors, and district coordinators on December 5, 2026 at 11:00 AM. Free entry for students and parents.",
+      "publishedAt": "2026-11-03",
+      "isPinned": false
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Success Point Head Office & Campus Courtyard, Dhubri",
+      "category": "Campus",
+      "mediaUrl": "/src/assets/images/hero_campus_dhubri_1795532445456.jpg",
+      "caption": "Main academic complex at GTB Road, Ward No. 12, Dhubri, Assam.",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "gal-2",
+      "title": "Smart Classroom Interactive Seminar Session",
+      "category": "Seminar",
+      "mediaUrl": "/src/assets/images/about_seminar_hall_1795532446180.jpg",
+      "caption": "Higher Secondary and college mentoring workshop led by senior faculty.",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "gal-3",
+      "title": "DCA & PGDCA Practical Computer Laboratory",
+      "category": "Activities",
+      "mediaUrl": "/src/assets/images/course_computer_lab_1795532446387.jpg",
+      "caption": "Students practicing database queries, Tally Prime, and web development.",
+      "date": "2026-11-01"
+    },
+    {
+      "id": "gal-4",
+      "title": "Annual Certificate Distribution & Felicitation Ceremony",
+      "category": "Certificate",
+      "mediaUrl": "/src/assets/images/gallery_convocation_1795532446358.jpg",
+      "caption": "Meritorious learners receiving QR-verified skill completion certificates.",
+      "date": "2026-11-08"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-1",
+      "name": "Rituraj Kalita",
+      "phone": "+91-98641-30091",
+      "email": "rituraj.k@example.in",
+      "district": "Goalpara",
+      "subject": "DCA Evening Batch Timings",
+      "message": "Please share the fee installment option and evening lab timings at Goalpara centre.",
+      "status": "New",
+      "createdAt": "2026-11-21T08:40:00Z"
+    }
+  ],
+  "supportTickets": [
+    {
+      "id": "tkt-1",
+      "userId": "usr-student-demo",
+      "userName": "Aarav Prodhani",
+      "userRole": "student",
+      "district": "Dhubri",
+      "subject": "Update Father Name Spelling on Admit Card",
+      "category": "Academic Document",
+      "message": "Kindly verify my HSLC marksheet attachment for final admit card spelling check.",
+      "reply": "Verified against uploaded HSLC copy. Record updated cleanly.",
+      "status": "Resolved",
+      "createdAt": "2026-11-15T10:20:00Z"
+    }
+  ],
+  "staffTasks": [
+    {
+      "id": "tsk-1",
+      "title": "Verify pending Dhubri & Gauripur DCA admission documents",
+      "assignedTo": "usr-staff-demo",
+      "assignedToName": "Farhana Begum",
+      "district": "Dhubri",
+      "priority": "High",
+      "dueDate": "2026-11-26",
+      "status": "In Progress"
+    },
+    {
+      "id": "tsk-2",
+      "title": "Publish December practical lab seating chart on Notice Board",
+      "assignedTo": "usr-staff-demo",
+      "assignedToName": "Farhana Begum",
+      "district": "Dhubri",
+      "priority": "Medium",
+      "dueDate": "2026-11-28",
+      "status": "Pending"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blg-1",
+      "title": "Choosing Between Computer Diploma (DCA/PGDCA) and Tally GST After Class 12 in Assam",
+      "category": "Career Update",
+      "summary": "A practical guide for students in Dhubri, Kokrajhar, and Goalpara evaluating office IT skills versus accounting specialization.",
+      "content": "Students completing Class 12 often wonder whether to pursue a broad computer diploma or specialized GST accounting. For Assam state government Grade III roles requiring computer proficiency, a 6-month DCA or 12-month PGDCA provides essential MS Office, database, and typing skills. Those targeting private-sector accounts and MSME billing benefit immediately from Tally Prime with GST.",
+      "publishedAt": "2026-11-12",
+      "author": "Academic Advisory Desk, Dhubri"
+    },
+    {
+      "id": "blg-2",
+      "title": "2026–27 Assam & National Scholarship Checklist for School and College Learners",
+      "category": "Scholarship Guide",
+      "summary": "Essential documents—income certificate, bonafide verification, Aadhaar-bank seeding—required before applying on NSP.",
+      "content": "Keep your previous academic marksheet, active bank passbook seeded with Aadhaar, valid income certificate from the circle office, and institutional bonafide letter ready prior to portal deadlines.",
+      "publishedAt": "2026-11-05",
+      "author": "Student Support Cell"
+    }
+  ],
+  "newsletterSubscribers": [
+    "parent.dhubri@example.in"
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1",
+      "actorName": "System Initializer",
+      "actorRole": "system",
+      "action": "SEED_SAMPLE_DATA",
+      "target": "Dhubri HQ & Assam District Registry",
+      "timestamp": "2026-11-24T06:00:00Z"
+    }
+  ]
+}
